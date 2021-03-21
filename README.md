@@ -1,2 +1,2 @@
-# youse-labs
-Youse Labs |  Open Source 
+# tech-labs
+Tech Labs |  Open Source 
